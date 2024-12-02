@@ -1,2 +1,0 @@
-This was repository which you have all the shell scripting basics and linux commands basics 
-
