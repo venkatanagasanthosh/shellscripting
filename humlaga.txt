@@ -1,2 +1,2 @@
-this is my first file in jenkins repo
+This was repository which you have all the shell scripting basics and linux commands basics 
 
