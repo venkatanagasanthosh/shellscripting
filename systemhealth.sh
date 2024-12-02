@@ -4,6 +4,7 @@ LOG_DIR="/var/log"
 LOG_FILE="$LOG_DIR/system_health.log"
 MAX_LOG_SIZE=$((10  * 1024 * 1024))
 
+#Creates a directory if the specified path is present.
 mkdir -p $LOG_DIR
 
 log_cpu_usage() {
