@@ -11,3 +11,5 @@ touch filename.extension : This command is used to create a file and the type of
 mv filename myfile: It rename the file name to the existing once.
 
 vim filename.extension: It creates a file and open the file to edit.
+
+cat filename: To read the contents in a file.
