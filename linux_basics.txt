@@ -1,0 +1,13 @@
+# This is a file which consists of all the file, folder, filemanuplation commands.
+
+mkdir my_dir: This command is used to create a directory.
+
+cd my_dir: This command is used change from one directory to another directory.
+
+cd ../ : moves one step backward
+
+touch filename.extension : This command is used to create a file and the type of the file with the extension 
+
+mv filename myfile: It rename the file name to the existing once.
+
+vim filename.extension: It creates a file and open the file to edit.
