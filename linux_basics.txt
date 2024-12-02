@@ -13,3 +13,11 @@ mv filename myfile: It rename the file name to the existing once.
 vim filename.extension: It creates a file and open the file to edit.
 
 cat filename: To read the contents in a file.
+
+rm filename: This command is used to delete the specific file 
+
+rmdir directory_name: This command will delete the empty directory.
+
+ls -a : this command is used to list all the files and folders including hidden files in a user
+
+locate filename: It specifies the filename with the path if that was present in the server
