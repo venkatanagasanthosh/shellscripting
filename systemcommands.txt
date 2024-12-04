@@ -1,0 +1,28 @@
+#All system commands.
+
+ps aux : List all the process in a server and it was not a dynamic it will take a screenshot of the running processe
+
+top: This command is used to list all the process currently running, it was dynamic.
+
+kill pid("Process ID): This command is used to kill the process by process id.
+
+pkill : Used to kill the process with the name.
+
+df -h:It will shows the how much diskspace is present.
+
+#Network commands 
+ifconfig: It was command used to get the IP address and MacAddress of the server 
+
+ipaddr show : It will show the complete details of the Ipv4/Ipv6 address and it was a updated command for ifconfig.
+
+ping -c 5 google.com: It will check the network stability, and latency and it will trouble shoot network issues.
+
+curl https://en.wikipedia.org/wiki/Elxsi: It will show the data in a webserver and it will support both the HTTP and FTP protocols
+
+wget https://en.wikipedia.org/wiki/Elxsi : It will download the file in into the server.
+
+hostname: It will display the hostname of the server.
+
+ss -tuln: Displays the detailed information of the network
+
+
